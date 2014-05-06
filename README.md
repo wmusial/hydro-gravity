@@ -4,7 +4,7 @@ hydro-gravity
 
 code workflow
 -----
-* setup: add spectral-tools to matlab's path
+* setup: add spectral-tools to matlab's path by running setup.m
 * run hydro simulation
   * design initial conditions
   * run stage1 - a coarse-grain hydro simulation on a small grid to get an idea how the solution looks like.
