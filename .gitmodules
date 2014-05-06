@@ -1,0 +1,3 @@
+[submodule "spectral-tools"]
+	path = spectral-tools
+	url = git@github.com:wmusial/spectral-tools.git
